@@ -1,6 +1,6 @@
 ---
 title: genko.me
-homepage: https://genko.me/
+homepage: https://genko.me/en
 opensource: "No"
 typeofcms: "API Driven"
 supportedgenerators:
@@ -9,9 +9,9 @@ description: A Japanese headless CMS with a quiet writing screen and a REST deli
 ---
 ## genko.me
 
-[genko.me](https://genko.me) is a headless CMS built in Japan. The editor is deliberately plain — the writing surface is the page, and the settings stay out of the way until they are needed. Content is delivered over a plain REST API, so any framework or language can read it.
+[genko.me](https://genko.me/en) is a headless CMS built in Japan. The editor is deliberately plain — the writing surface is the page, and the settings stay out of the way until they are needed. Content is delivered over a plain REST API, so any framework or language can read it.
 
-The developer documentation is at [docs.genko.me](https://docs.genko.me/). It is in Japanese for now, with an English version in progress; every page is also published as Markdown, with an `llms.txt` index.
+The developer documentation is available in English at [docs.genko.me/en](https://docs.genko.me/en). Every page is also published as Markdown, with an `llms.txt` index.
 
 ### Delivery API
 
